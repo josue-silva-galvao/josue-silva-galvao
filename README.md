@@ -1,6 +1,6 @@
 # Olá! Eu sou Josué Silva Galvão 👋
 
-Sou bacharel em Engenharia Civil com foco em **Mecânica dos Fluidos, Simulações Computacionais e Projetos de Pesquisa Aplicada**.  
+Serei bacharel em Engenharia Civil com foco em **Mecânica dos Fluidos, Simulações Computacionais e Projetos de Pesquisa Aplicada**.  
 Atualmente, estou me preparando para ingressar no **Mestrado do INPE (Instituto Nacional de Pesquisas Espaciais)/Mestrado no ITA (Instituto Tecnológico da Aeronáutica)**.
 
 ---
